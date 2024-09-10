@@ -13,8 +13,8 @@ drawings:
   persist: true
 transition: slide-left
 
-addons:
-  - excalidraw
+# addons:
+#   - excalidraw
 # https://sli.dev/features/mdc
 mdc: true
 ---
